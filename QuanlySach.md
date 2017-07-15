@@ -1,5 +1,4 @@
-
- <li># Nhom </li>
+# Nhom 
 **QUAN Lý SACH**
 
 - Gạch đầu dòng thứ nhất
