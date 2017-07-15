@@ -1,7 +1,7 @@
 
-##Nhom 5##
+ <li># Nhom </li>
 **QUAN Lý SACH**
-<img src="http://imgur.com/0pR2hXP">
+
 - Gạch đầu dòng thứ nhất
   <ul>
   <li>Thụt với đầu dòng 1</li>
